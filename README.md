@@ -7,3 +7,4 @@
 
 004 - validando usuário no login python e liberando acesso
  
+005 - enviando menssagem do backend p/ fontend usando flash
