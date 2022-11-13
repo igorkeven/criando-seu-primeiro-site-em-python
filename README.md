@@ -1,4 +1,6 @@
-# ensinando voce a programar seu primeiro site em python
+# Ensinando voce a programar seu primeiro site em python
+# Legenda das aulas
+
 001 - criando um formulario html
 
 002 - usando CSS para melhorar o formulario
