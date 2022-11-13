@@ -1,4 +1,6 @@
-# meu primeiro site em python
+# Ensinando voce a programar seu primeiro site em python
+# Legenda das aulas
+
 001 - criando um formulario html
 
 002 - usando CSS para melhorar o formulario
@@ -7,3 +9,4 @@
 
 004 - validando usuário no login python e liberando acesso
  
+005 - enviando menssagem do backend p/ fontend usando flash
