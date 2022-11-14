@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: aquamarine;
+    background: url(../imagens/fundo.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: block;
+}
+
+div.flash_alerta{
+    background-color: red;
+    font-size: 50px;
+    border-radius: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+div#form_fundo{
+    backdrop-filter: blur(10px);
+    opacity: .9;
+    margin: 10% 25% 25% 25% ;
+    text-align: center;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: 2px 5px 5px black;
+
+}
+
+div#form_frente{
+    background-color: white;
+    margin: 5px ;
+    text-align: center;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: 2px 5px 5px black;
+    padding: 30px;
+
+
+}
+
+label{
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+input{
+    border-radius: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+input:focus{
+    background-color: blue;
+    color: black;
+}
+
+button{
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+    font-size: 40px;
+    cursor: pointer;
+}
