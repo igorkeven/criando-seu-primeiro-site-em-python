@@ -13,5 +13,4 @@
 
 006 - validação de login de usuarios salvos em um arquivo .JSON
 
-
-007 - cadastrando usuários em um JSON para liberar o login.
+007 - criando um administrador para cadastrar usuarios e gerenciar o site
