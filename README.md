@@ -12,3 +12,6 @@
 005 - enviando menssagem do backend p/ fontend usando flash
 
 006 - validação de login de usuarios salvos em um arquivo .JSON
+
+
+007 - cadastrando usuários em um JSON para liberar o login.
