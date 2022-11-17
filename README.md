@@ -12,3 +12,5 @@
 005 - enviando menssagem do backend p/ fontend usando flash
 
 006 - validação de login de usuarios salvos em um arquivo .JSON
+
+007 - criando um administrador para cadastrar usuarios e gerenciar o site
