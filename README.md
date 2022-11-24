@@ -19,4 +19,4 @@
 
 009 - melhorando a segurança das rotas.
 
-010 - criando uma lista usando python no frontend para mostrar os usuarios cadastrados para o administrador
+010 - criando uma lista usando python no frontend para mostrar e editar os usuarios cadastrados para o administrador
