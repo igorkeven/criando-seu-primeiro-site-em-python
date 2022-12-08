@@ -20,3 +20,6 @@
 009 - melhorando a segurança das rotas.
 
 010 - criando uma lista usando python no frontend para mostrar e editar os usuarios cadastrados para o administrador
+
+011 - excluindo usuários atraves da lista que criamos na aula 010
+
