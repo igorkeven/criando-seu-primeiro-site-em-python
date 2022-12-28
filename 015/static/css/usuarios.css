@@ -1,0 +1,9 @@
+@import url(../css/home.css);
+
+
+
+#arquivosParaDownload{
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 20px;
+}
