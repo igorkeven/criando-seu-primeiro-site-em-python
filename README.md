@@ -31,3 +31,5 @@
 
 015 - Salvando usuarios no banco de dados através do python
 
+016 - Listando e excluindo usuarios do banco de dados através do site com python
+
